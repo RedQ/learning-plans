@@ -1,5 +1,5 @@
 #Overview
-	I will be tracking My Progress Through this repo as I will learn 
+	We will be tracking My Progress Through this repo as I will learn 
 	different things on development.
 
 #Rules:
