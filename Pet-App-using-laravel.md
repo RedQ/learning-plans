@@ -11,6 +11,7 @@
 7. Will have it's own namespace
 8. Check CSRF token
 9. Remember Me feature
+10. Use Event handler
 
 ##Role and permission management:
 1. Implementing ACL and Role based restrictions
